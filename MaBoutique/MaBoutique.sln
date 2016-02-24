@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaBoutique", "MaBoutique\MaBoutique.csproj", "{450D2B9F-994F-4630-B2D1-92FCA28E432F}"
+EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "MaBoutique.DAL", "MaBoutique.DAL\MaBoutique.DAL.fsproj", "{383A7AAD-6B96-4DC4-BB6F-A4987A300F15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{383A7AAD-6B96-4DC4-BB6F-A4987A300F15}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{383A7AAD-6B96-4DC4-BB6F-A4987A300F15}.Debug|x86.Build.0 = Debug|Any CPU
+		{383A7AAD-6B96-4DC4-BB6F-A4987A300F15}.Release|x86.ActiveCfg = Release|Any CPU
+		{383A7AAD-6B96-4DC4-BB6F-A4987A300F15}.Release|x86.Build.0 = Release|Any CPU
+		{450D2B9F-994F-4630-B2D1-92FCA28E432F}.Debug|x86.ActiveCfg = Debug|x86
+		{450D2B9F-994F-4630-B2D1-92FCA28E432F}.Debug|x86.Build.0 = Debug|x86
+		{450D2B9F-994F-4630-B2D1-92FCA28E432F}.Release|x86.ActiveCfg = Release|x86
+		{450D2B9F-994F-4630-B2D1-92FCA28E432F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
